@@ -1,0 +1,42 @@
+[33mcommit 10def199248754aab7a3c9f541e1efabc8ef6d05[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 20:46:29 2026 -0700
+
+    G: added CCBB
+
+[33mcommit 55c925317a9728c70d7dc74b2647fbdb07f96a68[m
+Merge: e388a65 4d57ae9
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 20:40:34 2026 -0700
+
+    F: Merge branch 'add_classics'
+
+[33mcommit e388a6504ba5c0b6740e09cc67f4899a24a00489[m
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 20:38:21 2026 -0700
+
+    E: added contents
+
+[33mcommit 4d57ae90c4cb1ec76f1106e6dd9cc6c14a23995b[m
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 20:32:03 2026 -0700
+
+    D: added classics
+
+[33mcommit a3c23dd55e933eac7724f268d42c3f931f3ee0ef[m
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 20:00:04 2026 -0700
+
+    C: add quotes
+
+[33mcommit 028abcf2ba34a1fa15d586e0e7e5954070d75f9d[m
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 19:56:17 2026 -0700
+
+    B: Adding movie titles
+
+[33mcommit 91fd0a796b7d08995dd6ef6ce511682a70f66b22[m
+Author: FullerGeek <fuller.herb@gmail.com>
+Date:   Wed Apr 22 19:28:56 2026 -0700
+
+    A: add contents.md
